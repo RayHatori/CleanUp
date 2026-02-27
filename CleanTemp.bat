@@ -7,5 +7,4 @@ mkdir %TEMP% 2>nul
 echo Cleaning Recycle Bin...
 rd /s /q C:\$Recycle.bin 2>nul
 echo Done!
-
 pause
